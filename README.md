@@ -1,0 +1,2 @@
+# TimerColor
+Timer Color Foreground
