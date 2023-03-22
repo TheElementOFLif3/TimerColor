@@ -13,8 +13,9 @@ The stopTimer method stops the timer if it is running.
 The resetTimer method stops the timer and resets the time label to the current time with the previous color.
 
 Overall, this program provides a basic timer application that allows the user to change the color of the time label and start, stop, and reset the timer.
-<img width="263" alt="SCR-20230322-kqif" src="https://user-images.githubusercontent.com/116418444/226978782-71f5fe4a-6b84-439e-a168-c19d968ec186.png">
 
+
+<img width="263" alt="SCR-20230322-kqif" src="https://user-images.githubusercontent.com/116418444/226978782-71f5fe4a-6b84-439e-a168-c19d968ec186.png">
 <img width="249" alt="SCR-20230322-kqjx" src="https://user-images.githubusercontent.com/116418444/226978853-170e09d7-7d50-4c7c-b9a7-777b6204ce65.png">
 <img width="249" alt="SCR-20230322-kqoh" src="https://user-images.githubusercontent.com/116418444/226978923-4563779f-c023-4d03-97aa-960a8b43b5ef.png">
 <img width="249" alt="SCR-20230322-kqrd" src="https://user-images.githubusercontent.com/116418444/226978936-1e01fd2a-9ea4-487a-85cd-f7a1bd0e9a0e.png">
